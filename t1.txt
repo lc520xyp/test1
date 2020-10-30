@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 lc
 xyp
 lc love xyp
+diff?
